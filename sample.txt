@@ -1,5 +1,8 @@
 I have little knowledge about git and git hub
+git pull - add file or data in the git hub to display in your working folder
 git add . - add one or more working files
 git remote add origin - it is origin link to the repository
 git init - create a empty repository
 git branch - you can see the origin name and also modify the name 
+git branch -a - you can visible your branch
+git checkout -  use to switch a new branch
