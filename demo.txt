@@ -1,0 +1,3 @@
+create a demo file from new branch
+git diff - diff between current branch and main branch 
+git merge branch name - merge two branchs in github\\
